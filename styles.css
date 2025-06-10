@@ -1,0 +1,20 @@
+h1 {
+    font-size: 50px;
+}
+
+button {
+    display: block;
+    width: 200px;
+    height: 60px;
+    border: none;
+    box-shadow: 7px 3px 3px grey;
+    margin-bottom: 10px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
